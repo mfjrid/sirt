@@ -251,12 +251,15 @@ body {
   .data-statistik {
     padding-top: 120px;
   }
+  .data-statistik h2 {
+    font-size: 35px;
+  }
   .surat .image-surat {
     margin-bottom: 20px;
   }
   .surat .image-surat img {
-    width: 387px;
-    height: 289px;
+    width: 327px;
+    height: 229px;
   }
   .surat .icon-item {
     width: 140px;
