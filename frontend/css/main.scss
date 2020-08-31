@@ -240,3 +240,54 @@ body {
    color: #fff;
    font-weight: bold;
 }
+
+// Breakpoint Handphone
+
+$breakpoint-hp : 439px;
+
+@media(max-width:$breakpoint-hp) {
+   .section-background-header {
+      h1 {
+         font-size: 35px;
+      }
+
+      p {
+         font-size: 15px;
+      }
+   }
+
+   .header-item {
+
+      img {
+         width: 50px;
+         height: 50px;
+      }
+
+      .item {
+         width: 170px;
+         margin-left: 20px;
+         margin-bottom: 20px;
+         padding-right: 15px;
+         padding-left: 15px;
+      }
+
+      h5 {
+         font-size: 15px;
+      }
+   }
+
+   .data-statistik {
+      padding-top: 120px;
+   }
+
+   .surat {
+      .image-surat {
+         margin-bottom: 20px;
+
+         img {
+            width: 387px;
+            height: 289px;
+         }
+      }
+   }
+}
