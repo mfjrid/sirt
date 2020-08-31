@@ -289,5 +289,18 @@ $breakpoint-hp : 439px;
             height: 289px;
          }
       }
+
+      .icon-item {
+         width: 140px;
+
+         img {
+            width: 100px;
+            height: 100px;
+         }
+
+         p {
+            font-size: 15px;
+         }
+      }
    }
 }

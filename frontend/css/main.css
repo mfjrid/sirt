@@ -258,5 +258,15 @@ body {
     width: 387px;
     height: 289px;
   }
+  .surat .icon-item {
+    width: 140px;
+  }
+  .surat .icon-item img {
+    width: 100px;
+    height: 100px;
+  }
+  .surat .icon-item p {
+    font-size: 15px;
+  }
 }
 /*# sourceMappingURL=main.css.map */
